@@ -3,7 +3,7 @@
 # Hi there, I'm Sakshi Kokare 👋
 ### Full-Stack Developer | React.js • Java • Spring Boot • Flutter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/sakshi-kokare/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-kokare/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshik-23)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshikokare2304@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pune%2C_India-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Pune,India)
